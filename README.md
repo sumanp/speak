@@ -10,6 +10,7 @@ How to run the application?
 3. rails db:setup
 4. rails db:migrate
 5. bundle exec rspec
+6. rails s
 
 How to test api endpoints?
 1. brew install httpie
